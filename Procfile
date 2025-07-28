@@ -1,0 +1,1 @@
+java -Dserver.port=$PORT -jar subscriptionmembership-0.0.1-SNAPSHOT.jar
